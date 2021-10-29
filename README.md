@@ -40,22 +40,32 @@ Objective:
 
  The key questions that we would be asking are:
  
-     ### 1. What sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
-     ### 2. How valid is the model we have built?
-     ### 3. What can we do to improve the model?
+ 
+      **1. What sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+      2. How valid is the model we have built?
+      3. What can we do to improve the model?**
      
  
  The Major steps includes:
  
  
-    DATA CLEANING
-    DATA PREPROCESSING
-    DATA SCALING
-    TRAINING DIFFERENT MODELS:
-      LINEAR REGRESSION MODEL
-      POLYNOMIAL REGRESSION MODEL
-      SVM MODEL 
-    HYPOTHESIS TESTING
-    EVALUATION USING CLASSIFICATION MATRIX
-    CONCLUSION
+   DATA CLEANING 
+   
+   DATA PREPROCESSING
+   
+   DATA SCALING
+   
+   DATA VISUALIZATION
+   
+   TRAINING DIFFERENT MODELS:
+   
+      1.LINEAR REGRESSION MODEL
+      2.POLYNOMIAL REGRESSION MODEL
+      3.SVM MODEL
+      
+   HYPOTHESIS TESTING
+   
+   EVALUATION USING CLASSIFICATION MATRIX
+   
+   CONCLUSION
 
